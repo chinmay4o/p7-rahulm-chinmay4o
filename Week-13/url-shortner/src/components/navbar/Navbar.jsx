@@ -18,7 +18,7 @@ const Navbar = () => {
               className=" h-[24px] w-[24px] md:h-[35px] md:w-[35px]"
             />
             <p className="text-[20px] md:text-[23px] font-[700] relative">
-              Finge Notes
+               Shortly
               <span className="inline-flex absolute -right-[28px] -top-[2px] h-[14px] justify-center items-center px-[6px] py-[2px] ml-3 text-[6px] font-medium text-gray-800 bg-gray-200 rounded-[2px]">
                 Beta
               </span>
